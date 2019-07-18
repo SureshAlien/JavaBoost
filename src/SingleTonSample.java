@@ -2,6 +2,8 @@
  * private constructor should be there
  * create a statatic method
  */
+
+///checking from ubuntu
 public class SingleTonSample {
 
 	public static void main(String[] args) {
