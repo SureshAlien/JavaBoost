@@ -19,6 +19,7 @@ public class JDBCDao
 		s2.name ="sur";
 		dao.connect();
 		dao.addStudent(s2);
+		//dao.removeStudent(s2)
 		
 
 	}
